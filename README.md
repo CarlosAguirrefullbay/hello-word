@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 test one two three
 ## Carlos M. Aguirre
 **bold move**
